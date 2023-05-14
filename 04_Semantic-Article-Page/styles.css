@@ -10,8 +10,8 @@
   <body>
     <article>
       <header>
-        <h1 tag="articleH">Apple</h1>
-        <p tag="articleP">Published: 9th October, 2009</p>
+        <h1 class="articleH">Apple</h1>
+        <p class="articleP">Published: 9th October, 2009</p>
       </header>
 
       <p>
@@ -31,19 +31,19 @@
         including Norse, Greek and European Christian traditions.
       </p>
     </article>
-    <section tag="commentSection">
+    <section class="commentSection">
       <article>
-        <h1 tag="articleH1">
+        <h1 class="articleH1">
           Comments
           <p>Posted by: Apple Lover</p>
         </h1>
-        <p tag="commentP">~1 hour ago</p>
-        <p tag="commentP">I love apples, my favourite kind are Granny Smiths</p>
+        <p class="commentP">~1 hour ago</p>
+        <p class="commentP">I love apples, my favourite kind are Granny Smiths</p>
       </article>
       <article>
-        <h1 tag="articleH1">Posted by: Oranges are king</h1>
-        <p tag="commentP">~1 hour ago</p>
-        <p tag="commentP">
+        <h1 class="articleH1">Posted by: Oranges are king</h1>
+        <p class="commentP">~1 hour ago</p>
+        <p class="commentP">
           Urgh, apples!? you should write about ORANGES instead!!1!
         </p>
       </article>
